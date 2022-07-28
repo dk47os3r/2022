@@ -1,5 +1,5 @@
 # 2022
-> 2022 lv sec独家整理
+> 2022 lv sec独家整理【0day通杀】
 
 ### 目录
 
@@ -13,7 +13,7 @@
 [0x08 泛微OA文件上传漏洞](#0x08)<br>
 [0x09 禅道sql注入漏洞](#0x09)<br>
 [0x10 天融信上网行为管理系统命令执行漏洞](#0x10)<br>
-
+[0x11 Pbootcms命令执行漏洞](#0x10)<br>
 
 ### 0x01 
 > 明御WEB应用防火墙存在远程命令执行漏洞<br>
@@ -55,3 +55,8 @@ exp: https://lvmaosec.com/forum.php?mod=viewthread&tid=437
 ### 0x10
 > 天融信上网行为管理系统命令执行漏洞<br>
 exp: https://lvmaosec.com/forum.php?mod=viewthread&tid=446
+[0x11 
+
+### 0x11
+> Pbootcms命令执行漏洞<br>
+exp: https://lvmaosec.com/forum.php?mod=viewthread&tid=447
