@@ -73,4 +73,4 @@ https://lvmaosec.com/forum.php?mod=viewthread&tid=449
 
 ### 0x14
 > 安恒数据大脑API网关密码重置漏洞<br>
-https://lvmaosec.com/forum.php?mod=viewthread&tid=449
+https://lvmaosec.com/forum.php?mod=viewthread&tid=450
