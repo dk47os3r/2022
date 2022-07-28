@@ -55,7 +55,6 @@ exp: https://lvmaosec.com/forum.php?mod=viewthread&tid=437
 ### 0x10
 > 天融信上网行为管理系统命令执行漏洞<br>
 exp: https://lvmaosec.com/forum.php?mod=viewthread&tid=446
-[0x11 
 
 ### 0x11
 > Pbootcms命令执行漏洞<br>
